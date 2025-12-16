@@ -18,7 +18,7 @@ Based in **Panchkula, Haryana**, I love exploring modern web technologies and sh
 - 🌱 **Currently Learning:** Advanced React patterns, TypeScript, modern deployment & DevOps
 - 💡 **Passionate About:** Clean code, scalable architectures, and delightful UX
 - 🎯 **Goal:** Contribute to impactful products and grow as an SDE
-- 📫 **Reach me at:** [nitishkumarpandit312@gmail.com](mailto:nitishkumarpandit312@gmail.com)
+- 📫 **Reach me at:** [workwithnitishhh@gmail.com](mailto:workwithnitishhh@gmail.com)
 
 ---
 
@@ -26,28 +26,28 @@ Based in **Panchkula, Haryana**, I love exploring modern web technologies and sh
 
 ### 🔗 [ShrinkLink](https://github.com/nitishkumarpandittt/ShrinkLink)
 A modern, feature-rich URL shortener with analytics and link management.  
-- **Stack:** React 19, Node.js, Express, MongoDB  
+- **Stack:** React 19, Node.js, Express, MongoDB, nanoID
 - **Highlights:** URL shortening, click analytics, user accounts, secure APIs
 
 ### 💻 [CompileX](https://github.com/nitishkumarpandittt/CompileX)
 An online code editor and compiler supporting multiple programming languages.  
-- **Stack:** Full-stack web application  
+- **Stack:** React 18, Tailwind CSS, Node.js, Express, MongoDB, JWT 
 - **Highlights:** Multi-language support, real-time compilation, clean UI
 
 ### 📁 [ModiFile](https://github.com/nitishkumarpandittt/ModiFile)
 A high-performance file conversion platform with premium UI and smooth animations.  
-- **Stack:** Next.js 15, TypeScript  
+- **Stack:** Next.js 15, TypeScript,  FFmpeg.wasm, Tailwind CSS, Framer Motion
 - **Highlights:** Multiple format support, glassmorphic design, pro-grade UX
 
 ### 💬 [WaveLink](https://github.com/nitishkumarpandittt/WaveLink)
 A modern real-time chat application with a clean and responsive design.  
-- **Stack:** React, Vite, Appwrite  
+- **Stack:** React 18, Redux, Vite, Appwrite  
 - **Highlights:** Real-time messaging, responsive layouts, modern UI
 
 ### 💰 [CashTrack](https://github.com/nitishkumarpandittt/CashTrack)
 An intuitive expense tracker for personal finance management.  
-- **Stack:** JavaScript, Node.js  
-- **Highlights:** Income/expense tracking, insights, simple UX
+- **Stack:** Next.js 14, React 19, Tailwind CSS, Drizzle ORM, Neon DB (postgresql), Clerk  
+- **Highlights:** Income/expense tracking, AI insights, Analytical Dashboard
 
 ### 📍 [Realtime-Tracker](https://github.com/nitishkumarpandittt/Realtime-Tracker)
 Real-time device location monitoring with interactive maps.  
