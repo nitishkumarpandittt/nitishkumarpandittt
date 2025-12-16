@@ -22,6 +22,14 @@ Based in **Panchkula, Haryana**, I love exploring modern web technologies and sh
 
 ---
 
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
+---
+
 ## 🌟 Featured Projects
 
 ### 🔗 [ShrinkLink](https://github.com/nitishkumarpandittt/ShrinkLink)
